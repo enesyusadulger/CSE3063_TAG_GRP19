@@ -1,0 +1,17 @@
+[
+    {
+        "docId": "doc1",
+        "chunkId": "sec1",
+        "text": "Murat Can Ganiz, Bilgisayar Mühendisliği bölümünde öğretim üyesidir. Ofisi MB-342 numaralı odadadır."
+    },
+    {
+        "docId": "doc2",
+        "chunkId": "sec1",
+        "text": "CSE3063 Object Oriented Software Design dersi 3. sınıf güz dönemindedir. Dersin ön koşulu CSE1142'dir."
+    },
+    {
+        "docId": "doc3",
+        "chunkId": "sec1",
+        "text": "Mazeret sınavı, geçerli bir mazereti olan öğrenciler için düzenlenir. Mazeret hakkı yalnızca ara sınavlar için geçerlidir."
+    }
+]
