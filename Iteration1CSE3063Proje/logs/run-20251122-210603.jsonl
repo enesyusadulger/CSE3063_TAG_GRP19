@@ -1,0 +1,5 @@
+{"outputs": "StaffLookup", "stage": "IntentDetection", "inputs": "Murat Can Ganiz kimdir?", "durationMs": "1", "timestamp": "2025-11-22T21:06:03.304908200"}
+{"outputs": "[murat, can, ganiz, staff, advisor, office]", "stage": "QueryWriting", "inputs": "StaffLookup", "durationMs": "3", "timestamp": "2025-11-22T21:06:03.308162800"}
+{"outputs": "0 hits", "stage": "Retrieval", "inputs": "[murat, can, ganiz, staff, advisor, office]", "durationMs": "4", "timestamp": "2025-11-22T21:06:03.312429"}
+{"outputs": "Top score: 0", "stage": "Reranking", "inputs": "0 hits", "durationMs": "1", "timestamp": "2025-11-22T21:06:03.313487700"}
+{"outputs": "I couldn't find any information about that.", "stage": "AnswerGeneration", "inputs": "0 hits", "durationMs": "0", "timestamp": "2025-11-22T21:06:03.314570400"}

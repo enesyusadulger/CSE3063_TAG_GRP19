@@ -1,0 +1,5 @@
+{"outputs": "Course", "stage": "IntentDetection", "inputs": "CSE3063 dersinin ön koşulu nedir?", "durationMs": "1", "timestamp": "2025-11-21T03:27:51.974050"}
+{"outputs": "[cse3063, dersinin, ön, koşulu]", "stage": "QueryWriting", "inputs": "Course", "durationMs": "2", "timestamp": "2025-11-21T03:27:51.977247400"}
+{"outputs": "1 hits", "stage": "Retrieval", "inputs": "[cse3063, dersinin, ön, koşulu]", "durationMs": "4", "timestamp": "2025-11-21T03:27:51.982466"}
+{"outputs": "Top score: 50.0", "stage": "Reranking", "inputs": "1 hits", "durationMs": "2", "timestamp": "2025-11-21T03:27:51.984016200"}
+{"outputs": "Your answer: CSE3063 Nesneye Yönelik Analiz ve Tasarım dersi 3. See: doc2:sec1", "stage": "AnswerGeneration", "inputs": "1 hits", "durationMs": "7", "timestamp": "2025-11-21T03:27:51.991811300"}

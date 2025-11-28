@@ -1,0 +1,5 @@
+{"outputs": "Unknown", "stage": "IntentDetection", "inputs": "Mustafa Ağaoğlu?", "durationMs": "1", "timestamp": "2025-11-22T21:19:07.282451"}
+{"outputs": "[mustafa, ağaoğlu]", "stage": "QueryWriting", "inputs": "Unknown", "durationMs": "3", "timestamp": "2025-11-22T21:19:07.286347600"}
+{"outputs": "0 hits", "stage": "Retrieval", "inputs": "[mustafa, ağaoğlu]", "durationMs": "6", "timestamp": "2025-11-22T21:19:07.292560300"}
+{"outputs": "Top score: 0", "stage": "Reranking", "inputs": "0 hits", "durationMs": "1", "timestamp": "2025-11-22T21:19:07.293564800"}
+{"outputs": "I couldn't find any information about that.", "stage": "AnswerGeneration", "inputs": "0 hits", "durationMs": "1", "timestamp": "2025-11-22T21:19:07.294606500"}

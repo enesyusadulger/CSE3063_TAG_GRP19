@@ -1,0 +1,5 @@
+{"outputs": "Unknown", "stage": "IntentDetection", "inputs": "Who are the staff members?", "durationMs": "1", "timestamp": "2025-11-22T21:05:42.343226"}
+{"outputs": "[who, are, the, staff, members]", "stage": "QueryWriting", "inputs": "Unknown", "durationMs": "3", "timestamp": "2025-11-22T21:05:42.347056700"}
+{"outputs": "0 hits", "stage": "Retrieval", "inputs": "[who, are, the, staff, members]", "durationMs": "4", "timestamp": "2025-11-22T21:05:42.351277900"}
+{"outputs": "Top score: 0", "stage": "Reranking", "inputs": "0 hits", "durationMs": "0", "timestamp": "2025-11-22T21:05:42.352347300"}
+{"outputs": "I couldn't find any information about that.", "stage": "AnswerGeneration", "inputs": "0 hits", "durationMs": "1", "timestamp": "2025-11-22T21:05:42.353349600"}

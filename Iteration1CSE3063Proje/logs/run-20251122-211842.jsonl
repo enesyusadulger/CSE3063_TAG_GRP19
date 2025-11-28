@@ -1,0 +1,5 @@
+{"outputs": "StaffLookup", "stage": "IntentDetection", "inputs": "Murat Can Ganiz kimdir?", "durationMs": "0", "timestamp": "2025-11-22T21:18:42.447259700"}
+{"outputs": "[murat, can, ganiz, staff, advisor, office]", "stage": "QueryWriting", "inputs": "StaffLookup", "durationMs": "2", "timestamp": "2025-11-22T21:18:42.450448900"}
+{"outputs": "1 hits", "stage": "Retrieval", "inputs": "[murat, can, ganiz, staff, advisor, office]", "durationMs": "5", "timestamp": "2025-11-22T21:18:42.455263900"}
+{"outputs": "Top score: 30.0", "stage": "Reranking", "inputs": "1 hits", "durationMs": "1", "timestamp": "2025-11-22T21:18:42.457260700"}
+{"outputs": "Your answer: Murat Can Ganiz, Bilgisayar Mühendisliği bölümünde öğretim üyesidir. See: doc1:sec1", "stage": "AnswerGeneration", "inputs": "1 hits", "durationMs": "5", "timestamp": "2025-11-22T21:18:42.462186900"}

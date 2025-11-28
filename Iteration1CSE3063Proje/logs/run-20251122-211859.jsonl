@@ -1,0 +1,5 @@
+{"outputs": "Unknown", "stage": "IntentDetection", "inputs": "Mustafa?", "durationMs": "1", "timestamp": "2025-11-22T21:18:59.909953"}
+{"outputs": "[mustafa]", "stage": "QueryWriting", "inputs": "Unknown", "durationMs": "3", "timestamp": "2025-11-22T21:18:59.913066300"}
+{"outputs": "0 hits", "stage": "Retrieval", "inputs": "[mustafa]", "durationMs": "3", "timestamp": "2025-11-22T21:18:59.916978200"}
+{"outputs": "Top score: 0", "stage": "Reranking", "inputs": "0 hits", "durationMs": "0", "timestamp": "2025-11-22T21:18:59.918464100"}
+{"outputs": "I couldn't find any information about that.", "stage": "AnswerGeneration", "inputs": "0 hits", "durationMs": "1", "timestamp": "2025-11-22T21:18:59.919467600"}
